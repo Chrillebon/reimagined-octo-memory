@@ -1,3 +1,10 @@
 # reimagined-octo-memory
 
-Just testing that github and other features are working...
+found out how github is working.
+
+just testing how the atom/github can work together
+
+this is hard...
+
+
+hello?
